@@ -1,0 +1,3 @@
+[submodule "deps/mut"]
+	path = deps/mut
+	url = git@github.com:evonove/mut.git
